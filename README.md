@@ -13,3 +13,5 @@ My solutions from CodeWars
 10. [Python Solution for Bit Counting | Codewars](https://www.codewars.com/kata/reviews/54909b9defb59728f600016f/groups/5f3bb01d92a0ec0001025e2b)<br>Обычное. Была идея самому преобразовать в двоичный формат, но зачем когда есть встроенная функция bin()?
 11. [Python Solution for Duplicate Encoder | Codewars](https://www.codewars.com/kata/reviews/55249a95de8b4b5ae2000464/groups/55260ca41d58a2a47e00039c)<br>Нормально. Вспомнил про задание где нужно было посчитать все ли скобочки закрыты с Stepik.
 12. [Python Solution for Beginner Series #3 Sum of Numbers | Codewars](https://www.codewars.com/kata/reviews/55f3c250cfbfbde33d000048/groups/560f95e60b8c824835000065)<br>Можно было бы и пооптимальнее и оставить просто range, но я забыл что он сам генерирует массив.
+13. [Python Solution for Multiples of 3 or 5 | Codewars](https://www.codewars.com/kata/reviews/54a5ebd237f4350faf00006c/groups/677da6b548f61b56a907e5b2)<br>Идиот забыл как работает %
+14. [Python Solution for Sum of Digits / Digital Root | Codewars](https://www.codewars.com/kata/reviews/541c8b5e7e4b4c61e2000153/groups/541dbdc8455dc5e495000583)<br>Норм
